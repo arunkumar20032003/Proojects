@@ -1,0 +1,64 @@
+
+
+.game {
+   
+   
+   margin-top: 50px;
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+  
+    
+    background-color: lightpink;
+   
+    
+    
+}
+
+.bn {
+    width: 400px;
+    
+    margin-top: 20px;
+    
+    
+}
+
+.b2,
+.b3 {
+    margin-left: 50px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.res {
+    margin-left: 45px;
+    margin-top: 50px;
+    width: 350px;
+   
+    
+   display: flex;
+   
+}
+
+.ym,
+.cm {
+    background-color: white;
+}
+
+.box {
+    border: 1px solid black;
+    
+    margin-top: 50px;
+  }
+
+.sc_container {
+
+    
+    margin-top: 50px;
+   
+}
+
+.reset_container {
+    margin-top: 50px;
+   
+}
